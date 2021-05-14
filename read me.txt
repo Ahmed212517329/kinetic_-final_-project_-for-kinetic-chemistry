@@ -1,0 +1,11 @@
+This project will help chemist to do several kinetic cacluation 
+1- Find reactant order by 
+a)Vanthoff method
+b)Half life mehod
+c)Graphical method
+d)Initial method
+2- Find half life for 
+a)First reaction order
+b)Second reaction order
+c)Third reactio order
+3-Calcuati some electrochemical process 
